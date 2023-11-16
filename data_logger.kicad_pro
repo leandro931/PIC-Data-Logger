@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "data_logger.step",
       "vrml": ""
     },
     "page_layout_descr_file": "servicos_tec_elt.kicad_wks"
